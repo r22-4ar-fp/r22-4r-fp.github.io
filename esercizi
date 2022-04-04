@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <head>
 
 <table>
@@ -50,8 +50,9 @@
 <th> 27 </th>
 <th> 28 </th>
 </tr>
+</table>
 
 
 
-</head>
+</body>
 </html>
